@@ -1,1 +1,2 @@
-# hello-world
+# hello-world 
+Super eager to learn. :D
